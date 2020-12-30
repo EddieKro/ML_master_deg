@@ -9,3 +9,4 @@ Yet another NaUKMA ML course.
 * **Topic#6**: Clustering
 * **Topic#7**: MLP
 * **Topic#8**: CNN
+* **Final Project**: Lego Minifigures classification
